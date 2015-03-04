@@ -1,5 +1,3 @@
-# american_docker
-
 # American Docker
 
 This docker container allows for ruby to parse a Date using the american_date gem
