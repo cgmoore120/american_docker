@@ -18,4 +18,4 @@ This will be a one-and-done run that returns the american formatted date (month/
 
   `docker run cgmoore120/american_date ruby /american_date.rb '01-20-1982'`
 
-The date string can be delimited with either a `/`, ` ` or `-`
+The date string can be delimited with either a `/`, space or `-`
